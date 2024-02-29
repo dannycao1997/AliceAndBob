@@ -23,7 +23,7 @@ public class Main {
         if (name.equalsIgnoreCase("Alice") || name.equalsIgnoreCase("Bob")) {
             System.out.println("Hello, " + name + "!");
         } else {
-            System.out.println("You are neither Alice nor Bob,");
+            System.out.println("You are neither Alice nor Bob.");
 
         }
 
