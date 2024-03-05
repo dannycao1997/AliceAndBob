@@ -24,7 +24,6 @@ public class Main {
             System.out.println("Hello, " + name + "!");
         } else {
             System.out.println("You are neither Alice nor Bob.");
-
         }
 
 
